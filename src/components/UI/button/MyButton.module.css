@@ -1,0 +1,10 @@
+.btn{
+   padding: 5px 15px;
+   color: turquoise;
+   font-size: 14px;
+   background-color: black;
+   border: 1px solid violet;
+   border-radius: 10px;
+   cursor: pointer;
+   
+}

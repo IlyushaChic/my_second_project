@@ -1,0 +1,11 @@
+.inp {
+   width: 100%;
+   padding: 5px 15px;
+   margin: 5px 0;
+   color: turquoise;
+   font-size: 14px;
+   background-color: black;
+   border: 1px solid violet;
+   border-radius: 6px;
+   cursor: pointer;
+}
